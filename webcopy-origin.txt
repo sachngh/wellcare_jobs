@@ -1,0 +1,1388 @@
+Uri: https://primepharmacyrec.com/
+File Name: E:\primepharmacyrec.com\index.htm
+Content Type: text/html
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2019/10/xservices-background2.jpg.pagespeed.ic.HKOjt_zYyR.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2019\10\xservices-background2.jpg.pagespeed.ic.HKOjt_zYyR.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2019/10/pharmacy-candidate-process.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2019\10\pharmacy-candidate-process.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2018/04/prime-optical-candidate-process.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2018\04\prime-optical-candidate-process.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2019/10/xfavicon.jpg.pagespeed.ic.ONhf0_yVZB.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2019\10\xfavicon.jpg.pagespeed.ic.ONhf0_yVZB.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2019/10/footer-cta4.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2019\10\footer-cta4.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2019/10/footer-cta3.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2019\10\footer-cta3.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/A.wp-content,,_plugins,,_vc-mega-footer,,_public,,_css,,_vc-mega-footer-public.css,,qver==1.0.0+wp-includes,,_css,,_dist,,_block-library,,_style.min.css,,qver==5.7.2+wp-content,,_plugins,,_custom-twitter-feeds,,_css,,_ctf-styles.min.css,,qver==1.8+wp-content,,_plugins,,_salient-social,,_css,,_style.css,,qver==1.1,Mcc.got4UxHdOM.css.pagespeed.cf.UxTpWjc73h.css
+File Name: E:\primepharmacyrec.com\A.wp-content,,_plugins,,_vc-mega-footer,,_public,,_css,,_vc-mega-footer-public.css,,qver==1.0.0 wp-includes,,_css,,_dist,,_block-library,,_style.min.css,,qver==5.7.2 wp-content,,_plugins,,_custom-twitter-feeds,,_css,,_ctf-styles.m.css
+Content Type: text/css
+
+Uri: https://primepharmacyrec.com/wp-content/plugins,_uk-cookie-consent,_assets,_css,_style.css,qver==5.7.2+plugins,_wp-job-manager,_assets,_dist,_css,_job-listings.css,qver==d866e43503c5e047c6b0be0a9557cf8e+plugins,_wp-user-avatar,_assets,_css,_frontend.min.css,qver==3.1.3+plugins,_wp-user-avatar,_assets,_flatpickr,_flatpickr.min.css,qver==3.1.3+plugins,_wp-user-avatar,_assets,_select2,_select2.min.css,qver==5.7.2+plugins,_wp-job-manager-applications,_assets,_css,_frontend.css,qver==5.7.2+themes,_salient,_css,_font-awesome.min.css,qver==4.6.4+themes,_salient,_style.css,qver==5.7.2+themes,_salient,_css,_grid-system.css,qver==12.1.0+themes,_salient,_css,_style.css,qver==12.1.0.pagespeed.cc.sEQwE1DEys.css
+File Name: E:\primepharmacyrec.com\wp-content\plugins,_uk-cookie-consent,_assets,_css,_style.css,qver==5.7.2 plugins,_wp-job-manager,_assets,_dist,_css,_job-listings.css,qver==d866e43503c5e047c6b0be0a9557cf8e plugins,_wp-user-avatar,_assets,_css,_frontend.min.css,q.css
+Content Type: text/css
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/css/A.header,,_header-secondary-nav.css,,qver==12.1.0+off-canvas,,_slide-out-right-hover.css,,qver==12.1.0+elements,,_element-testimonial.css,,qver==12.1.0+plugins,,_magnific.css,,qver==8.6.0,Mcc.jrn06Ad3A0.css.pagespeed.cf.EhuKV1My_d.css
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\css\A.header,,_header-secondary-nav.css,,qver==12.1.0 off-canvas,,_slide-out-right-hover.css,,qver==12.1.0 elements,,_element-testimonial.css,,qver==12.1.0 plugins,,_magnific.css,,qver==8.6.0,Mcc.jrn06Ad3.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300%2C400%2C600%2C700&subset=latin%2Clatin-ext
+File Name: E:\primepharmacyrec.com\css.css
+Content Type: text/css
+
+Uri: https://primepharmacyrec.com/wp-content/themes,_salient,_css,_responsive.css,qver==12.1.0+themes,_salient,_css,_plugins,_flickity.css,qver==12.1.0+themes,_salient-child,_style.css,qver==12.1.0+themes,_salient,_css,_ascend.css,qver==12.1.0+themes,_salient,_css,_plugins,_select2.css,qver==6.2+plugins,_js_composer_salient,_assets,_css,_js_composer.min.css,qver==6.0.5+plugins,_gravityforms,_css,_formreset.min.css,qver==2.4.9+plugins,_gravityforms,_css,_formsmain.min.css,qver==2.4.9+plugins,_gravityforms,_css,_readyclass.min.css,qver==2.4.9+plugins,_gravityforms,_css,_browsers.min.css,qver==2.4.9+themes,_salient,_css,_salient-dynamic-styles.css,qver==87528.pagespeed.cc.Q81be8czAU.css
+File Name: E:\primepharmacyrec.com\wp-content\themes,_salient,_css,_responsive.css,qver==12.1.0 themes,_salient,_css,_plugins,_flickity.css,qver==12.1.0 themes,_salient-child,_style.css,qver==12.1.0 themes,_salient,_css,_ascend.css,qver==12.1.0 themes,_salient,_css.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:400%2C600%2C200%2C300|Oswald:400%2C500|Poppins:300%2C400|Libre+Baskerville:400italic&ver=1590401596
+File Name: E:\primepharmacyrec.com\css-1.css
+Content Type: text/css
+
+Uri: https://primepharmacyrec.com/feed/
+File Name: E:\primepharmacyrec.com\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://primepharmacyrec.com/comments/feed/
+File Name: E:\primepharmacyrec.com\comments\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://primepharmacyrec.com/wp-json/
+File Name: E:\primepharmacyrec.com\wp-json\index.htm.json
+Content Type: application/json
+
+Uri: https://primepharmacyrec.com/wp-json/wp/v2/pages/4123
+File Name: E:\primepharmacyrec.com\wp-json\wp\v2\pages\4123.json
+Content Type: application/json
+
+Uri: https://primepharmacyrec.com/wp-includes/wlwmanifest.xml
+File Name: E:\primepharmacyrec.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://primepharmacyrec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fprimepharmacyrec.com%2F
+File Name: E:\primepharmacyrec.com\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: https://primepharmacyrec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fprimepharmacyrec.com%2F&format=xml
+File Name: E:\primepharmacyrec.com\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: https://twitter.com/PrimePharmacy1
+File Name: E:\primepharmacyrec.com\PrimePharmacy1.html
+Content Type: text/html
+
+Uri: https://www.facebook.com/PrimePharmacyRec
+File Name: E:\primepharmacyrec.com\PrimePharmacyRec.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/primepharmacyrec/
+File Name: E:\primepharmacyrec.com\primepharmacyrec\index.htm
+Content Type: text/html
+
+Uri: https://primepharmacyrec.com/pharmacist-jobs/
+File Name: E:\primepharmacyrec.com\pharmacist-jobs\index.htm
+Content Type: text/html
+
+Uri: https://primepharmacyrec.com/blog/
+File Name: E:\primepharmacyrec.com\blog\index.htm
+Content Type: text/html
+
+Uri: https://primepharmacyrec.com/register-with-us-prime-pharmacy/
+File Name: E:\primepharmacyrec.com\register-with-us-prime-pharmacy\index.htm
+Content Type: text/html
+
+Uri: https://primepharmacyrec.com/arrange-a-call-back/
+File Name: E:\primepharmacyrec.com\arrange-a-call-back\index.htm
+Content Type: text/html
+
+Uri: https://primepharmacyrec.com/submit-a-vacancy/
+File Name: E:\primepharmacyrec.com\submit-a-vacancy\index.htm
+Content Type: text/html
+
+Uri: https://primepharmacyrec.com/five-tips-to-get-the-most-out-of-video-interviews/
+File Name: E:\primepharmacyrec.com\five-tips-to-get-the-most-out-of-video-interviews\index.htm
+Content Type: text/html
+
+Uri: https://primepharmacyrec.com/category/pharmacist-careers/
+File Name: E:\primepharmacyrec.com\category\pharmacist-careers\index.htm
+Content Type: text/html
+
+Uri: https://primepharmacyrec.com/category/pharmacy-careers/
+File Name: E:\primepharmacyrec.com\category\pharmacy-careers\index.htm
+Content Type: text/html
+
+Uri: https://primepharmacyrec.com/author/helen/
+File Name: E:\primepharmacyrec.com\author\helen\index.htm
+Content Type: text/html
+
+Uri: https://primepharmacyrec.com/4-top-reasons-to-become-a-community-pharmacist/
+File Name: E:\primepharmacyrec.com\4-top-reasons-to-become-a-community-pharmacist\index.htm
+Content Type: text/html
+
+Uri: https://primepharmacyrec.com/privacy-policy/
+File Name: E:\primepharmacyrec.com\privacy-policy\index.htm
+Content Type: text/html
+
+Uri: https://primepharmacyrec.com/cookie-policy/
+File Name: E:\primepharmacyrec.com\cookie-policy\index.htm
+Content Type: text/html
+
+Uri: https://primepharmacyrec.com/modern-slavery-human-trafficking-statement/
+File Name: E:\primepharmacyrec.com\modern-slavery-human-trafficking-statement\index.htm
+Content Type: text/html
+
+Uri: https://twitter.com/PrimePharmacy1/status/1398270547432251401
+File Name: E:\primepharmacyrec.com\PrimePharmacy1\status\1398270547432251401.html
+Content Type: text/html
+
+Uri: https://twitter.com/intent/tweet?in_reply_to=1398270547432251401&related=PrimePharmacy1
+File Name: E:\primepharmacyrec.com\intent\tweet.html
+Content Type: text/html
+
+Uri: https://twitter.com/intent/retweet?tweet_id=1398270547432251401&related=PrimePharmacy1
+File Name: E:\primepharmacyrec.com\intent\retweet.html
+Content Type: text/html
+
+Uri: https://twitter.com/intent/like?tweet_id=1398270547432251401&related=PrimePharmacy1
+File Name: E:\primepharmacyrec.com\intent\like.html
+Content Type: text/html
+
+Uri: https://primepharmacyrec.com/wp-content/A.plugins,,_js_composer_salient,,_assets,,_lib,,_bower,,_animate-css,,_animate.min.css,,qver==6.0.5+themes,,_salient,,_css,,_iconsmind.css,,qver==7.6,Mcc.Jul5mQ0AWf.css.pagespeed.cf.V9u-p4EvYm.css
+File Name: E:\primepharmacyrec.com\wp-content\A.plugins,,_js_composer_salient,,_assets,,_lib,,_bower,,_animate-css,,_animate.min.css,,qver==6.0.5 themes,,_salient,,_css,,_iconsmind.css,,qver==7.6,Mcc.Jul5mQ0AWf.css.pagespeed.cf.V9u-p4EvYm.css
+Content Type: text/css
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-158632733-1
+File Name: E:\primepharmacyrec.com\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://primepharmacyrec.com/wp-includes,_js,_jquery,_jquery.min.js,qver==3.5.1+wp-includes,_js,_jquery,_jquery-migrate.min.js,qver==3.3.2+wp-content,_plugins,_vc-mega-footer,_public,_js,_vc-mega-footer-public.js,qver==1.0.0.pagespeed.jc.5AETorU0eY.js
+File Name: E:\primepharmacyrec.com\wp-includes,_js,_jquery,_jquery.min.js,qver==3.5.1 wp-includes,_js,_jquery,_jquery-migrate.min.js,qver==3.3.2 wp-content,_plugins,_vc-mega-footer,_public,_js,_vc-mega-footer-public.js,qver==1.0.0.pagespeed.jc.5AETorU0eY.js
+Content Type: application/javascript
+
+Uri: https://primepharmacyrec.com/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: E:\primepharmacyrec.com\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/javascript
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/wp-user-avatar,_assets,_flatpickr,_flatpickr.min.js,qver==5.7.2+wp-user-avatar,_assets,_select2,_select2.min.js,qver==5.7.2+gravityforms,_js,_placeholders.jquery.min.js,qver==2.4.9.pagespeed.jc.vx6RXFy_zf.js
+File Name: E:\primepharmacyrec.com\wp-content\plugins\wp-user-avatar,_assets,_flatpickr,_flatpickr.min.js,qver==5.7.2 wp-user-avatar,_assets,_select2,_select2.min.js,qver==5.7.2 gravityforms,_js,_placeholders.jquery.min.js,qver==2.4.9.pagespeed.jc.vx6RXFy_zf.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-117344650-1
+File Name: E:\primepharmacyrec.com\gtag\js-1.js
+Content Type: application/javascript
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2019/10/xPrime-Pharmacyl-Logo.png.pagespeed.ic.vKLmFlnpMg.png
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2019\10\xPrime-Pharmacyl-Logo.png.pagespeed.ic.vKLmFlnpMg.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2019/10/xPrime-Pharmacy-Logo-Black.png.pagespeed.ic.fjmhe-TyUQ.png
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2019\10\xPrime-Pharmacy-Logo-Black.png.pagespeed.ic.fjmhe-TyUQ.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2019/10/xPrime-Pharmacy-Logo-Black-1.png.pagespeed.ic.fjmhe-TyUQ.png
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2019\10\xPrime-Pharmacy-Logo-Black-1.png.pagespeed.ic.fjmhe-TyUQ.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2019/10/19686748-sd.webm
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2019\10\19686748-sd.webm
+Content Type: video/webm
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2019/10/19686748-sd.mp4
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2019\10\19686748-sd.mp4
+Content Type: video/mp4
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2019/10/xpharmacist.jpg.pagespeed.ic.-iYbtOA8BJ.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2019\10\xpharmacist.jpg.pagespeed.ic.-iYbtOA8BJ.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2020/04/Main-Photo-1024x551.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2020\04\Main-Photo-1024x551.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2019/10/favicon.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2019\10\favicon.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2020/03/Personal-Linkedin-Cover-Photo-Optical-Pharmacy-1.png
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2020\03\Personal-Linkedin-Cover-Photo-Optical-Pharmacy-1.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2018/04/Prime-Optical-Logo-footer-1.png
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2018\04\Prime-Optical-Logo-footer-1.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content,_plugins,_uk-cookie-consent,_assets,_js,_uk-cookie-consent-js.js,qver==2.3.0+wp-includes,_js,_dist,_vendor,_wp-polyfill.min.js,qver==7.4.4.pagespeed.jc.ppL_1bOFWq.js
+File Name: E:\primepharmacyrec.com\wp-content,_plugins,_uk-cookie-consent,_assets,_js,_uk-cookie-consent-js.js,qver==2.3.0 wp-includes,_js,_dist,_vendor,_wp-polyfill.min.js,qver==7.4.4.pagespeed.jc.ppL_1bOFWq.js
+Content Type: application/javascript
+
+Uri: https://primepharmacyrec.com/wp-includes/js/dist/hooks.min.js,qver==50e23bed88bcb9e6e14023e9961698c1+i18n.min.js,qver==db9a9a37da262883343e941c3731bc67.pagespeed.jc.QKFeAFIgJT.js
+File Name: E:\primepharmacyrec.com\wp-includes\js\dist\hooks.min.js,qver==50e23bed88bcb9e6e14023e9961698c1 i18n.min.js,qver==db9a9a37da262883343e941c3731bc67.pagespeed.jc.QKFeAFIgJT.js
+Content Type: application/javascript
+
+Uri: https://primepharmacyrec.com/wp-admin/js/password-strength-meter.min.js?ver=5.7.2
+File Name: E:\primepharmacyrec.com\wp-admin\js\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://primepharmacyrec.com/wp-content,_plugins,_wp-user-avatar,_assets,_js,_frontend.min.js,qver==3.1.3+wp-includes,_js,_imagesloaded.min.js,qver==4.1.4+wp-includes,_js,_masonry.min.js,qver==4.2.2+wp-includes,_js,_jquery,_jquery.masonry.min.js,qver==3.1.2b+wp-content,_plugins,_wp-user-avatar,_assets,_js,_member-directory.min.js,qver==3.1.3+wp-content,_themes,_salient,_js,_third-party,_jquery.easing.js,qver==1.3+wp-content,_themes,_salient,_js,_third-party,_jquery.mousewheel.js,qver==3.1.13+wp-content,_themes,_salient,_js,_priority.js,qver==12.1.0+wp-content,_themes,_salient,_js,_third-party,_transit.js,qver==0.9.9+wp-content,_themes,_salient,_js,_third-party,_waypoints.js,qver==4.0.1+wp-content,_plugins,_salient-portfolio,_js,_third-party,_imagesLoaded.min.js,qver==4.1.4+wp-content,_themes,_salient,_js,_third-party,_hoverintent.js,qver==1.9+wp-content,_themes,_salient,_js,_third-party,_magnific.js,qver==7.0.1.pagespeed.jc.e6vRir9qTN.js
+File Name: E:\primepharmacyrec.com\wp-content,_plugins,_wp-user-avatar,_assets,_js,_frontend.min.js,qver==3.1.3 wp-includes,_js,_imagesloaded.min.js,qver==4.1.4 wp-includes,_js,_masonry.min.js,qver==4.2.2 wp-includes,_js,_jquery,_jquery.masonry.min.js,qver==3.1.2b w.js
+Content Type: application/javascript
+
+Uri: https://primepharmacyrec.com/wp-content/plugins,_salient-core,_js,_third-party,_touchswipe.min.js,qver==1.0+plugins,_salient-portfolio,_js,_third-party,_caroufredsel.min.js,qver==7.0.1+themes,_salient,_js,_third-party,_flickity.min.js,qver==2.2+themes,_salient,_js,_third-party,_superfish.js,qver==1.4.8.pagespeed.jc.rYZrwfWyuX.js
+File Name: E:\primepharmacyrec.com\wp-content\plugins,_salient-core,_js,_third-party,_touchswipe.min.js,qver==1.0 plugins,_salient-portfolio,_js,_third-party,_caroufredsel.min.js,qver==7.0.1 themes,_salient,_js,_third-party,_flickity.min.js,qver==2.2 themes,_salient.js
+Content Type: application/javascript
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/js/init.js,qver=12.1.0.pagespeed.jm.FB9Pv40fv0.js
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\js\init.js,qver=12.1.0.pagespeed.jm.FB9Pv40fv0.js
+Content Type: application/javascript
+
+Uri: https://primepharmacyrec.com/wp-content,_plugins,_js_composer_salient,_assets,_lib,_bower,_flexslider,_jquery.flexslider-min.js,qver==6.0.5+wp-content,_plugins,_salient-portfolio,_js,_third-party,_isotope.min.js,qver==7.6+wp-content,_themes,_salient,_js,_elements,_nectar-blog.js,qver==12.1.0+wp-content,_themes,_salient,_js,_third-party,_select2.min.js,qver==3.5.2+wp-content,_plugins,_wp-job-manager-locations,_assets,_js,_main.min.js,qver==20190128+wp-includes,_js,_wp-embed.min.js,qver==5.7.2.pagespeed.jc.d3Ah5bDBLV.js
+File Name: E:\primepharmacyrec.com\wp-content,_plugins,_js_composer_salient,_assets,_lib,_bower,_flexslider,_jquery.flexslider-min.js,qver==6.0.5 wp-content,_plugins,_salient-portfolio,_js,_third-party,_isotope.min.js,qver==7.6 wp-content,_themes,_salient,_js,_eleme.js
+Content Type: application/javascript
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/js/dist/js_composer_front.min.js?ver=6.0.5
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\js\dist\js_composer_front.min.js
+Content Type: application/javascript
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/custom-twitter-feeds/js/ctf-scripts.min.js?ver=1.8
+File Name: E:\primepharmacyrec.com\wp-content\plugins\custom-twitter-feeds\js\ctf-scripts.min.js
+Content Type: application/javascript
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2019/10/pharmacist.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2019\10\pharmacist.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2019/10/pharmacist-300x202.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2019\10\pharmacist-300x202.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2019/10/pharmacist-400x269.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2019\10\pharmacist-400x269.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2020/04/Main-Photo-300x162.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2020\04\Main-Photo-300x162.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2020/04/Main-Photo-768x414.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2020\04\Main-Photo-768x414.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2020/04/Main-Photo.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2020\04\Main-Photo.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2020/03/Personal-Linkedin-Cover-Photo-Optical-Pharmacy-1-300x114.png
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2020\03\Personal-Linkedin-Cover-Photo-Optical-Pharmacy-1-300x114.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2020/03/Personal-Linkedin-Cover-Photo-Optical-Pharmacy-1-768x292.png
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2020\03\Personal-Linkedin-Cover-Photo-Optical-Pharmacy-1-768x292.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/wp-job-manager/assets/dist/images/ajax-loader-ea183bf26ae76dec039869d4bc7060cb.gif
+File Name: E:\primepharmacyrec.com\wp-content\plugins\wp-job-manager\assets\dist\images\ajax-loader-ea183bf26ae76dec039869d4bc7060cb.gif
+Content Type: image/gif
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/wp-user-avatar/assets/css/material-icons/MaterialIcons-Regular.eot
+File Name: E:\primepharmacyrec.com\wp-content\plugins\wp-user-avatar\assets\css\material-icons\MaterialIcons-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/wp-user-avatar/assets/css/material-icons/MaterialIcons-Regular.woff2
+File Name: E:\primepharmacyrec.com\wp-content\plugins\wp-user-avatar\assets\css\material-icons\MaterialIcons-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/wp-user-avatar/assets/css/material-icons/MaterialIcons-Regular.woff
+File Name: E:\primepharmacyrec.com\wp-content\plugins\wp-user-avatar\assets\css\material-icons\MaterialIcons-Regular.woff
+Content Type: font/woff
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/wp-user-avatar/assets/css/material-icons/MaterialIcons-Regular.ttf
+File Name: E:\primepharmacyrec.com\wp-content\plugins\wp-user-avatar\assets\css\material-icons\MaterialIcons-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/wp-user-avatar/assets/images/frontend/arrow-down.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\wp-user-avatar\assets\images\frontend\arrow-down.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/wp-user-avatar/assets/images/social-login/google.svg
+File Name: E:\primepharmacyrec.com\wp-content\plugins\wp-user-avatar\assets\images\social-login\google.svg
+Content Type: image/svg+xml
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/wp-user-avatar/assets/images/social-login/vk-fa.svg
+File Name: E:\primepharmacyrec.com\wp-content\plugins\wp-user-avatar\assets\images\social-login\vk-fa.svg
+Content Type: image/svg+xml
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/wp-user-avatar/assets/images/social-login/facebook.svg
+File Name: E:\primepharmacyrec.com\wp-content\plugins\wp-user-avatar\assets\images\social-login\facebook.svg
+Content Type: image/svg+xml
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/wp-user-avatar/assets/images/social-login/twitter.svg
+File Name: E:\primepharmacyrec.com\wp-content\plugins\wp-user-avatar\assets\images\social-login\twitter.svg
+Content Type: image/svg+xml
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/wp-user-avatar/assets/images/social-login/linkedin.svg
+File Name: E:\primepharmacyrec.com\wp-content\plugins\wp-user-avatar\assets\images\social-login\linkedin.svg
+Content Type: image/svg+xml
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/wp-user-avatar/assets/images/social-login/github-fa.svg
+File Name: E:\primepharmacyrec.com\wp-content\plugins\wp-user-avatar\assets\images\social-login\github-fa.svg
+Content Type: image/svg+xml
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/css/fonts/fontawesome-webfont.eot?v=4.2
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\css\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/css/fonts/fontawesome-webfont.eot?
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\css\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/css/fonts/fontawesome-webfont.svg
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\css\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/css/fonts/fontawesome-webfont.woff?v=4.2
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\css\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/css/fonts/fontawesome-webfont.ttf?v=4.2
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\css\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/img/icons/loading-white-bg.gif
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\img\icons\loading-white-bg.gif
+Content Type: image/gif
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/img/icons/leaflet/marker-shadow.png
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\img\icons\leaflet\marker-shadow.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/img/icons/quote.png
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\img\icons\quote.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/img/icons/link.png
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\img\icons\link.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/img/icons/status.png
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\img\icons\status.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/img/icons/quote-2x.png
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\img\icons\quote-2x.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/img/icons/link-2x.png
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\img\icons\link-2x.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/img/icons/portfolio-arrows.png
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\img\icons\portfolio-arrows.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/img/icons/portfolio-arrows-2x.png
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\img\icons\portfolio-arrows-2x.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/img/icons/comment-children-line.jpg
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\img\icons\comment-children-line.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/css/fonts/icomoon.eot
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\css\fonts\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/css/fonts/icomoon.eot?
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\css\fonts\icomoon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/css/fonts/icomoon.woff
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\css\fonts\icomoon.woff
+Content Type: font/woff
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/css/fonts/icomoon.ttf
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\css\fonts\icomoon.ttf
+Content Type: font/ttf
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/css/fonts/icomoon.svg
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\css\fonts\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/css/fonts/linecons.eot
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\css\fonts\linecons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/css/fonts/linecons.eot?
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\css\fonts\linecons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/css/fonts/linecons.ttf
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\css\fonts\linecons.ttf
+Content Type: font/ttf
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/css/fonts/linecons.woff
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\css\fonts\linecons.woff
+Content Type: font/woff
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/css/fonts/linecons.svg
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\css\fonts\linecons.svg
+Content Type: image/svg+xml
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/css/fonts/steadysets.eot
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\css\fonts\steadysets.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/css/fonts/steadysets.eot?
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\css\fonts\steadysets-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/css/fonts/steadysets.ttf
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\css\fonts\steadysets.ttf
+Content Type: font/ttf
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/css/fonts/steadysets.woff
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\css\fonts\steadysets.woff
+Content Type: font/woff
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/css/fonts/steadysets.svg
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\css\fonts\steadysets.svg
+Content Type: image/svg+xml
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/vc/alert.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\vc\alert.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/vc/info.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\vc\info.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/vc/tick.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\vc\tick.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/vc/exclamation.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\vc\exclamation.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/icons/address-book.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\icons\address-book.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/icons/alarm-clock.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\icons\alarm-clock.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/icons/anchor.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\icons\anchor.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/icons/application-image.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\icons\application-image.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/icons/arrow.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\icons\arrow.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/icons/asterisk.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\icons\asterisk.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/icons/auction-hammer.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\icons\auction-hammer.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/icons/balloon.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\icons\balloon.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/icons/balloon-buzz.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\icons\balloon-buzz.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/icons/balloon-facebook.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\icons\balloon-facebook.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/icons/balloon-twitter.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\icons\balloon-twitter.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/icons/battery-full.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\icons\battery-full.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/icons/binocular.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\icons\binocular.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/icons/blue-document-excel.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\icons\blue-document-excel.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/icons/blue-document-image.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\icons\blue-document-image.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/icons/blue-document-music.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\icons\blue-document-music.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/icons/blue-document-office.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\icons\blue-document-office.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/icons/blue-document-pdf.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\icons\blue-document-pdf.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/icons/blue-document-powerpoint.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\icons\blue-document-powerpoint.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/icons/blue-document-word.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\icons\blue-document-word.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/icons/bookmark.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\icons\bookmark.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/icons/camcorder.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\icons\camcorder.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/icons/camera.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\icons\camera.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/icons/chart.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\icons\chart.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/icons/chart-pie.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\icons\chart-pie.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/icons/clock.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\icons\clock.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/icons/control.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\icons\control.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/icons/fire.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\icons\fire.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/icons/heart.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\icons\heart.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/icons/mail.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\icons\mail.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/icons/plus-shield.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\icons\plus-shield.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/icons/video.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\icons\video.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.eot?f6ud62
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.ttf?f6ud62
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.ttf
+Content Type: font/ttf
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.woff?f6ud62
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.woff
+Content Type: font/woff
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.svg?f6ud62
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/toggle_open.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\toggle_open.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/toggle_close.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\toggle_close.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/flickr.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\flickr.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/fonts/vc_grid/vc_grid_v1.eot?-9hbgac
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\fonts\vc_grid\vc_grid_v1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/fonts/vc_grid/vc_grid_v1.eot?
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\fonts\vc_grid\vc_grid_v1-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/fonts/vc_grid/vc_grid_v1.woff?-9hbgac
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\fonts\vc_grid\vc_grid_v1.woff
+Content Type: font/woff
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/fonts/vc_grid/vc_grid_v1.ttf?-9hbgac
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\fonts\vc_grid\vc_grid_v1.ttf
+Content Type: font/ttf
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/fonts/vc_grid/vc_grid_v1.svg?-9hbgac
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\fonts\vc_grid\vc_grid_v1.svg
+Content Type: image/svg+xml
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/spinner.gif
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\spinner.gif
+Content Type: image/gif
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/vc/remove.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\vc\remove.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/gravityforms/images/gf-creditcard-icons.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\gravityforms\images\gf-creditcard-icons.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/gravityforms/css/chosen-sprite.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\gravityforms\css\chosen-sprite.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/gravityforms/css/chosen-sprite@2x.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\gravityforms\css\chosen-sprite@2x.png
+Content Type: image/png
+
+Uri: https://wordpress.org/
+File Name: E:\primepharmacyrec.com\index-1.htm
+Content Type: text/html
+
+Uri: https://primepharmacyrec.com/wp-content/A.plugins,,_uk-cookie-consent,,_assets,,_css,,_style.css,,qver==5.7.2+plugins,,_wp-job-manager,,_assets,,_lib,,_select2,,_select2.min.css,,qver==4.0.10+plugins,,_wp-job-manager,,_assets,,_dist,,_css,,_frontend.css,,qver==3629ee20955ef1bd9ca6f599c30ef40c+plugins,,_wp-user-avatar,,_assets,,_css,,_frontend.min.css,,qver==3.1.3+plugins,,_wp-user-avatar,,_assets,,_flatpickr,,_flatpickr.min.css,,qver==3.1.3+plugins,,_wp-user-avatar,,_assets,,_select2,,_select2.min.css,,qver==5.7.2+plugins,,_wp-job-manager-applications,,_assets,,_css,,_frontend.css,,qver==5.7.2+themes,,_salient,,_css,,_font-awesome.min.css,,qver==4.6.4+themes,,_salient,,_style.css,,qver==5.7.2+themes,,_salient,,_css,,_grid-system.css,,qver==12.1.0+themes,,_salient,,_css,,_style.css,,qver==12.1.0,Mcc.fHXhaGfO_z.css.pagespeed.cf.kB3OGYIYf7.css
+File Name: E:\primepharmacyrec.com\wp-content\A.plugins,,_uk-cookie-consent,,_assets,,_css,,_style.css,,qver==5.7.2 plugins,,_wp-job-manager,,_assets,,_lib,,_select2,,_select2.min.css,,qver==4.0.10 plugins,,_wp-job-manager,,_assets,,_dist,,_css,,_frontend.css,,qver.css
+Content Type: text/css
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/css/A.header,,_header-secondary-nav.css,,qver==12.1.0+off-canvas,,_slide-out-right-hover.css,,qver==12.1.0+plugins,,_magnific.css,,qver==8.6.0,Mcc.y7f0j6wbVl.css.pagespeed.cf.dKZ4cZIgVN.css
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\css\A.header,,_header-secondary-nav.css,,qver==12.1.0 off-canvas,,_slide-out-right-hover.css,,qver==12.1.0 plugins,,_magnific.css,,qver==8.6.0,Mcc.y7f0j6wbVl.css.pagespeed.cf.dKZ4cZIgVN.css
+Content Type: text/css
+
+Uri: https://primepharmacyrec.com/wp-content/A.themes,,_salient,,_css,,_responsive.css,,qver==12.1.0+themes,,_salient-child,,_style.css,,qver==12.1.0+themes,,_salient,,_css,,_ascend.css,,qver==12.1.0+plugins,,_js_composer_salient,,_assets,,_css,,_js_composer.min.css,,qver==6.0.5+plugins,,_gravityforms,,_css,,_formreset.min.css,,qver==2.4.9+plugins,,_gravityforms,,_css,,_formsmain.min.css,,qver==2.4.9+plugins,,_gravityforms,,_css,,_readyclass.min.css,,qver==2.4.9+plugins,,_gravityforms,,_css,,_browsers.min.css,,qver==2.4.9+themes,,_salient,,_css,,_salient-dynamic-styles.css,,qver==87528,Mcc.oIgmeEfKtV.css.pagespeed.cf.FtYjI7g5aK.css
+File Name: E:\primepharmacyrec.com\wp-content\A.themes,,_salient,,_css,,_responsive.css,,qver==12.1.0 themes,,_salient-child,,_style.css,,qver==12.1.0 themes,,_salient,,_css,,_ascend.css,,qver==12.1.0 plugins,,_js_composer_salient,,_assets,,_css,,_js_composer.min.c.css
+Content Type: text/css
+
+Uri: https://primepharmacyrec.com/wp-json/wp/v2/pages/6000
+File Name: E:\primepharmacyrec.com\wp-json\wp\v2\pages\6000.json
+Content Type: application/json
+
+Uri: https://primepharmacyrec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fprimepharmacyrec.com%2Fpharmacist-jobs%2F
+File Name: E:\primepharmacyrec.com\wp-json\oembed\1.0\embed-1.json
+Content Type: application/json
+
+Uri: https://primepharmacyrec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fprimepharmacyrec.com%2Fpharmacist-jobs%2F&format=xml
+File Name: E:\primepharmacyrec.com\wp-json\oembed\1.0\embed-1.xml
+Content Type: text/xml
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/lib/bower/animate-css/A.animate.min.css,qver=6.0.5.pagespeed.cf.S768AuvxEk.css
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\lib\bower\animate-css\A.animate.min.css,qver=6.0.5.pagespeed.cf.S768AuvxEk.css
+Content Type: text/css
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient-child/images/target.svg
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient-child\images\target.svg
+Content Type: image/svg+xml
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient-child/images/placeholder.svg
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient-child\images\placeholder.svg
+Content Type: image/svg+xml
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient-child/images/folder.svg
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient-child\images\folder.svg
+Content Type: image/svg+xml
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient-child/images/clock.svg
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient-child\images\clock.svg
+Content Type: image/svg+xml
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2018/04/xPrime-Optical-Logo-footer-1.png.pagespeed.ic.sJ9JnMvTye.png
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2018\04\xPrime-Optical-Logo-footer-1.png.pagespeed.ic.sJ9JnMvTye.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content,_plugins,_wp-job-manager,_assets,_lib,_select2,_select2.full.min.js,qver==4.0.10+wp-content,_plugins,_wp-job-manager-locations,_assets,_js,_main.min.js,qver==20190128+wp-includes,_js,_wp-embed.min.js,qver==5.7.2.pagespeed.jc.9KG7OyXBT8.js
+File Name: E:\primepharmacyrec.com\wp-content,_plugins,_wp-job-manager,_assets,_lib,_select2,_select2.full.min.js,qver==4.0.10 wp-content,_plugins,_wp-job-manager-locations,_assets,_js,_main.min.js,qver==20190128 wp-includes,_js,_wp-embed.min.js,qver==5.7.2.pagespee.js
+Content Type: application/javascript
+
+Uri: https://primepharmacyrec.com/wp-content/A.plugins,,_uk-cookie-consent,,_assets,,_css,,_style.css,,qver==5.7.2+plugins,,_wp-job-manager,,_assets,,_dist,,_css,,_job-listings.css,,qver==d866e43503c5e047c6b0be0a9557cf8e+plugins,,_wp-user-avatar,,_assets,,_css,,_frontend.min.css,,qver==3.1.3+plugins,,_wp-user-avatar,,_assets,,_flatpickr,,_flatpickr.min.css,,qver==3.1.3+plugins,,_wp-user-avatar,,_assets,,_select2,,_select2.min.css,,qver==5.7.2+plugins,,_wp-job-manager-applications,,_assets,,_css,,_frontend.css,,qver==5.7.2+themes,,_salient,,_css,,_font-awesome.min.css,,qver==4.6.4+themes,,_salient,,_style.css,,qver==5.7.2+themes,,_salient,,_css,,_grid-system.css,,qver==12.1.0+themes,,_salient,,_css,,_style.css,,qver==12.1.0,Mcc.sEQwE1DEys.css.pagespeed.cf.vVske6_g5v.css
+File Name: E:\primepharmacyrec.com\wp-content\A.plugins,,_uk-cookie-consent,,_assets,,_css,,_style.css,,qver==5.7.2 plugins,,_wp-job-manager,,_assets,,_dist,,_css,,_job-listings.css,,qver==d866e43503c5e047c6b0be0a9557cf8e plugins,,_wp-user-avatar,,_assets,,_css,,_f.css
+Content Type: text/css
+
+Uri: https://primepharmacyrec.com/wp-content/A.themes,,_salient,,_css,,_responsive.css,,qver==12.1.0+themes,,_salient-child,,_style.css,,qver==12.1.0+themes,,_salient,,_css,,_ascend.css,,qver==12.1.0+themes,,_salient,,_css,,_plugins,,_select2.css,,qver==6.2+plugins,,_js_composer_salient,,_assets,,_css,,_js_composer.min.css,,qver==6.0.5+themes,,_salient,,_css,,_salient-dynamic-styles.css,,qver==87528,Mcc.r1dDR5rk9p.css.pagespeed.cf.czmxEpX0ht.css
+File Name: E:\primepharmacyrec.com\wp-content\A.themes,,_salient,,_css,,_responsive.css,,qver==12.1.0 themes,,_salient-child,,_style.css,,qver==12.1.0 themes,,_salient,,_css,,_ascend.css,,qver==12.1.0 themes,,_salient,,_css,,_plugins,,_select2.css,,qver==6.2 plugin.css
+Content Type: text/css
+
+Uri: https://primepharmacyrec.com/wp-json/wp/v2/pages/4422
+File Name: E:\primepharmacyrec.com\wp-json\wp\v2\pages\4422.json
+Content Type: application/json
+
+Uri: https://primepharmacyrec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fprimepharmacyrec.com%2Fblog%2F
+File Name: E:\primepharmacyrec.com\wp-json\oembed\1.0\embed-2.json
+Content Type: application/json
+
+Uri: https://primepharmacyrec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fprimepharmacyrec.com%2Fblog%2F&format=xml
+File Name: E:\primepharmacyrec.com\wp-json\oembed\1.0\embed-2.xml
+Content Type: text/xml
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/wp-user-avatar/assets/flatpickr,_flatpickr.min.js,qver==5.7.2+select2,_select2.min.js,qver==5.7.2.pagespeed.jc.gIsyCFqtMU.js
+File Name: E:\primepharmacyrec.com\wp-content\plugins\wp-user-avatar\assets\flatpickr,_flatpickr.min.js,qver==5.7.2 select2,_select2.min.js,qver==5.7.2.pagespeed.jc.gIsyCFqtMU.js
+Content Type: application/javascript
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2020/04/Main-Photo-600x403.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2020\04\Main-Photo-600x403.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2020/03/xPersonal-Linkedin-Cover-Photo-Optical-Pharmacy-1-600x312.png.pagespeed.ic.9DEfSivriY.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2020\03\xPersonal-Linkedin-Cover-Photo-Optical-Pharmacy-1-600x312.png.pagespeed.ic.9DEfSivriY.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content,_plugins,_js_composer_salient,_assets,_lib,_bower,_flexslider,_jquery.flexslider-min.js,qver==6.0.5+wp-content,_plugins,_salient-portfolio,_js,_third-party,_isotope.min.js,qver==7.6+wp-content,_themes,_salient,_js,_elements,_nectar-blog.js,qver==12.1.0+wp-content,_plugins,_salient-core,_js,_third-party,_touchswipe.min.js,qver==1.0+wp-content,_themes,_salient,_js,_third-party,_select2.min.js,qver==3.5.2+wp-content,_plugins,_wp-job-manager-locations,_assets,_js,_main.min.js,qver==20190128+wp-includes,_js,_wp-embed.min.js,qver==5.7.2.pagespeed.jc.P0ixgux104.js
+File Name: E:\primepharmacyrec.com\wp-content,_plugins,_js_composer_salient,_assets,_lib,_bower,_flexslider,_jquery.flexslider-min.js,qver==6.0.5 wp-content,_plugins,_salient-portfolio,_js,_third-party,_isotope.min.js,qver==7.6 wp-content,_themes,_salient,_js,_ele-1.js
+Content Type: application/javascript
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2020/04/Main-Photo-900x604.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2020\04\Main-Photo-900x604.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2020/04/Main-Photo-400x269.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2020\04\Main-Photo-400x269.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2019/10/register-background-1.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2019\10\register-background-1.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/css/A.header,,_header-secondary-nav.css,,qver==12.1.0+off-canvas,,_slide-out-right-hover.css,,qver==12.1.0+elements,,_element-wpb-column-border.css,,qver==12.1.0+plugins,,_magnific.css,,qver==8.6.0,Mcc.vnbrX0Klda.css.pagespeed.cf.WFWWCXL5jA.css
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\css\A.header,,_header-secondary-nav.css,,qver==12.1.0 off-canvas,,_slide-out-right-hover.css,,qver==12.1.0 elements,,_element-wpb-column-border.css,,qver==12.1.0 plugins,,_magnific.css,,qver==8.6.0,Mcc.vn.css
+Content Type: text/css
+
+Uri: https://primepharmacyrec.com/wp-content/A.themes,,_salient,,_css,,_responsive.css,,qver==12.1.0+themes,,_salient-child,,_style.css,,qver==12.1.0+themes,,_salient,,_css,,_ascend.css,,qver==12.1.0+themes,,_salient,,_css,,_plugins,,_select2.css,,qver==6.2+plugins,,_js_composer_salient,,_assets,,_css,,_js_composer.min.css,,qver==6.0.5+plugins,,_gravityforms,,_css,,_formreset.min.css,,qver==2.4.9+plugins,,_gravityforms,,_css,,_formsmain.min.css,,qver==2.4.9+plugins,,_gravityforms,,_css,,_readyclass.min.css,,qver==2.4.9+plugins,,_gravityforms,,_css,,_browsers.min.css,,qver==2.4.9+themes,,_salient,,_css,,_salient-dynamic-styles.css,,qver==87528,Mcc.Isca4nwfbE.css.pagespeed.cf.aspsYyAjTe.css
+File Name: E:\primepharmacyrec.com\wp-content\A.themes,,_salient,,_css,,_responsive.css,,qver==12.1.0 themes,,_salient-child,,_style.css,,qver==12.1.0 themes,,_salient,,_css,,_ascend.css,,qver==12.1.0 themes,,_salient,,_css,,_plugins,,_select2.css,,qver==6.2 plug-1.css
+Content Type: text/css
+
+Uri: https://primepharmacyrec.com/wp-json/wp/v2/pages/5848
+File Name: E:\primepharmacyrec.com\wp-json\wp\v2\pages\5848.json
+Content Type: application/json
+
+Uri: https://primepharmacyrec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fprimepharmacyrec.com%2Fregister-with-us-prime-pharmacy%2F
+File Name: E:\primepharmacyrec.com\wp-json\oembed\1.0\embed-3.json
+Content Type: application/json
+
+Uri: https://primepharmacyrec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fprimepharmacyrec.com%2Fregister-with-us-prime-pharmacy%2F&format=xml
+File Name: E:\primepharmacyrec.com\wp-json\oembed\1.0\embed-3.xml
+Content Type: text/xml
+
+Uri: https://primepharmacyrec.com/wp-content,_plugins,_wp-user-avatar,_assets,_flatpickr,_flatpickr.min.js,qver==5.7.2+wp-content,_plugins,_wp-user-avatar,_assets,_select2,_select2.min.js,qver==5.7.2+wp-includes,_js,_plupload,_moxie.min.js,qver==1.3.5+wp-includes,_js,_plupload,_plupload.min.js,qver==2.1.9+wp-content,_plugins,_gravityforms,_js,_jquery.json.min.js,qver==2.4.9.pagespeed.jc.mSSsit7bnZ.js
+File Name: E:\primepharmacyrec.com\wp-content,_plugins,_wp-user-avatar,_assets,_flatpickr,_flatpickr.min.js,qver==5.7.2 wp-content,_plugins,_wp-user-avatar,_assets,_select2,_select2.min.js,qver==5.7.2 wp-includes,_js,_plupload,_moxie.min.js,qver==1.3.5 wp-includes,_.js
+Content Type: application/javascript
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/gravityforms/js/gravityforms.min.js,qver==2.4.9+placeholders.jquery.min.js,qver==2.4.9.pagespeed.jc.ujYQEg5468.js
+File Name: E:\primepharmacyrec.com\wp-content\plugins\gravityforms\js\gravityforms.min.js,qver==2.4.9 placeholders.jquery.min.js,qver==2.4.9.pagespeed.jc.ujYQEg5468.js
+Content Type: application/javascript
+
+Uri: https://primepharmacyrec.com/wp-content,_plugins,_salient-core,_js,_third-party,_touchswipe.min.js,qver==1.0+wp-content,_themes,_salient,_js,_third-party,_select2.min.js,qver==3.5.2+wp-content,_plugins,_wp-job-manager-locations,_assets,_js,_main.min.js,qver==20190128+wp-includes,_js,_wp-embed.min.js,qver==5.7.2.pagespeed.jc.qE_ZF6kEw_.js
+File Name: E:\primepharmacyrec.com\wp-content,_plugins,_salient-core,_js,_third-party,_touchswipe.min.js,qver==1.0 wp-content,_themes,_salient,_js,_third-party,_select2.min.js,qver==3.5.2 wp-content,_plugins,_wp-job-manager-locations,_assets,_js,_main.min.js,qver==2.js
+Content Type: application/javascript
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2019/10/homepage-header.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2019\10\homepage-header.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/A.themes,,_salient,,_css,,_responsive.css,,qver==12.1.0+themes,,_salient-child,,_style.css,,qver==12.1.0+themes,,_salient,,_css,,_ascend.css,,qver==12.1.0+themes,,_salient,,_css,,_plugins,,_select2.css,,qver==6.2+plugins,,_js_composer_salient,,_assets,,_css,,_js_composer.min.css,,qver==6.0.5+plugins,,_gravityforms,,_css,,_formreset.min.css,,qver==2.4.9+plugins,,_gravityforms,,_css,,_datepicker.min.css,,qver==2.4.9+plugins,,_gravityforms,,_css,,_formsmain.min.css,,qver==2.4.9+plugins,,_gravityforms,,_css,,_readyclass.min.css,,qver==2.4.9+plugins,,_gravityforms,,_css,,_browsers.min.css,,qver==2.4.9+themes,,_salient,,_css,,_salient-dynamic-styles.css,,qver==87528,Mcc.55PHmbYUhb.css.pagespeed.cf.sUp6KWXyfR.css
+File Name: E:\primepharmacyrec.com\wp-content\A.themes,,_salient,,_css,,_responsive.css,,qver==12.1.0 themes,,_salient-child,,_style.css,,qver==12.1.0 themes,,_salient,,_css,,_ascend.css,,qver==12.1.0 themes,,_salient,,_css,,_plugins,,_select2.css,,qver==6.2 plug-2.css
+Content Type: text/css
+
+Uri: https://primepharmacyrec.com/wp-json/wp/v2/pages/5689
+File Name: E:\primepharmacyrec.com\wp-json\wp\v2\pages\5689.json
+Content Type: application/json
+
+Uri: https://primepharmacyrec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fprimepharmacyrec.com%2Farrange-a-call-back%2F
+File Name: E:\primepharmacyrec.com\wp-json\oembed\1.0\embed-4.json
+Content Type: application/json
+
+Uri: https://primepharmacyrec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fprimepharmacyrec.com%2Farrange-a-call-back%2F&format=xml
+File Name: E:\primepharmacyrec.com\wp-json\oembed\1.0\embed-4.xml
+Content Type: text/xml
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/wp-user-avatar,_assets,_flatpickr,_flatpickr.min.js,qver==5.7.2+wp-user-avatar,_assets,_select2,_select2.min.js,qver==5.7.2+gravityforms,_js,_jquery.json.min.js,qver==2.4.9.pagespeed.jc.AbMikfShJL.js
+File Name: E:\primepharmacyrec.com\wp-content\plugins\wp-user-avatar,_assets,_flatpickr,_flatpickr.min.js,qver==5.7.2 wp-user-avatar,_assets,_select2,_select2.min.js,qver==5.7.2 gravityforms,_js,_jquery.json.min.js,qver==2.4.9.pagespeed.jc.AbMikfShJL.js
+Content Type: application/javascript
+
+Uri: https://primepharmacyrec.com/wp-content,_plugins,_gravityforms,_js,_gravityforms.min.js,qver==2.4.9+wp-includes,_js,_plupload,_moxie.min.js,qver==1.3.5+wp-includes,_js,_plupload,_plupload.min.js,qver==2.1.9+wp-content,_plugins,_gravityforms,_js,_placeholders.jquery.min.js,qver==2.4.9.pagespeed.jc.Ru5GLbzPwp.js
+File Name: E:\primepharmacyrec.com\wp-content,_plugins,_gravityforms,_js,_gravityforms.min.js,qver==2.4.9 wp-includes,_js,_plupload,_moxie.min.js,qver==1.3.5 wp-includes,_js,_plupload,_plupload.min.js,qver==2.1.9 wp-content,_plugins,_gravityforms,_js,_placeholders.j.js
+Content Type: application/javascript
+
+Uri: https://primepharmacyrec.com/wp-content,_plugins,_salient-core,_js,_third-party,_touchswipe.min.js,qver==1.0+wp-content,_themes,_salient,_js,_third-party,_select2.min.js,qver==3.5.2+wp-content,_plugins,_wp-job-manager-locations,_assets,_js,_main.min.js,qver==20190128+wp-includes,_js,_jquery,_ui,_core.min.js,qver==1.12.1+wp-includes,_js,_jquery,_ui,_datepicker.min.js,qver==1.12.1.pagespeed.jc.XXEVqtljU7.js
+File Name: E:\primepharmacyrec.com\wp-content,_plugins,_salient-core,_js,_third-party,_touchswipe.min.js,qver==1.0 wp-content,_themes,_salient,_js,_third-party,_select2.min.js,qver==3.5.2 wp-content,_plugins,_wp-job-manager-locations,_assets,_js,_main.min.js,qver=-1.js
+Content Type: application/javascript
+
+Uri: https://primepharmacyrec.com/wp-content,_plugins,_gravityforms,_js,_datepicker.min.js,qver==2.4.9+wp-includes,_js,_wp-embed.min.js,qver==5.7.2.pagespeed.jc.AdOplYnfIU.js
+File Name: E:\primepharmacyrec.com\wp-content,_plugins,_gravityforms,_js,_datepicker.min.js,qver==2.4.9 wp-includes,_js,_wp-embed.min.js,qver==5.7.2.pagespeed.jc.AdOplYnfIU.js
+Content Type: application/javascript
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2019/10/register-background-1-1.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2019\10\register-background-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-json/wp/v2/pages/5838
+File Name: E:\primepharmacyrec.com\wp-json\wp\v2\pages\5838.json
+Content Type: application/json
+
+Uri: https://primepharmacyrec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fprimepharmacyrec.com%2Fsubmit-a-vacancy%2F
+File Name: E:\primepharmacyrec.com\wp-json\oembed\1.0\embed-5.json
+Content Type: application/json
+
+Uri: https://primepharmacyrec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fprimepharmacyrec.com%2Fsubmit-a-vacancy%2F&format=xml
+File Name: E:\primepharmacyrec.com\wp-json\oembed\1.0\embed-5.xml
+Content Type: text/xml
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2020/04/xMain-Photo.jpg.pagespeed.ic.saCDh0KXr_.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2020\04\xMain-Photo.jpg.pagespeed.ic.saCDh0KXr_.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2020/03/xPersonal-Linkedin-Cover-Photo-Optical-Pharmacy-1.png.pagespeed.ic.QlWZE-1VR7.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2020\03\xPersonal-Linkedin-Cover-Photo-Optical-Pharmacy-1.png.pagespeed.ic.QlWZE-1VR7.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/css/header/A.header-secondary-nav.css,qver=12.1.0.pagespeed.cf.HyKgvDPn3m.css
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\css\header\A.header-secondary-nav.css,qver=12.1.0.pagespeed.cf.HyKgvDPn3m.css
+Content Type: text/css
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/css/off-canvas/slide-out-right-hover.css?ver=12.1.0
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\css\off-canvas\slide-out-right-hover.css
+Content Type: text/css
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/css/single.css?ver=12.1.0
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\css\single.css
+Content Type: text/css
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/css/elements/element-image-with-hotspots.css?ver=12.1.0
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\css\elements\element-image-with-hotspots.css
+Content Type: text/css
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/css/plugins/magnific.css?ver=8.6.0
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\css\plugins\magnific.css
+Content Type: text/css
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/css/responsive.css?ver=12.1.0
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\css\responsive.css
+Content Type: text/css
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient-child/style.css?ver=12.1.0
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient-child\style.css
+Content Type: text/css
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/css/ascend.css?ver=12.1.0
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\css\ascend.css
+Content Type: text/css
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/css/plugins/select2.css?ver=6.2
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\css\plugins\select2.css
+Content Type: text/css
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/css/js_composer.min.css?ver=6.0.5
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\css\js_composer.min.css
+Content Type: text/css
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/css/salient-dynamic-styles.css?ver=87528
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\css\salient-dynamic-styles.css
+Content Type: text/css
+
+Uri: https://primepharmacyrec.com/five-tips-to-get-the-most-out-of-video-interviews/feed/
+File Name: E:\primepharmacyrec.com\five-tips-to-get-the-most-out-of-video-interviews\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://primepharmacyrec.com/wp-json/wp/v2/posts/7014
+File Name: E:\primepharmacyrec.com\wp-json\wp\v2\posts\7014.json
+Content Type: application/json
+
+Uri: https://primepharmacyrec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fprimepharmacyrec.com%2Ffive-tips-to-get-the-most-out-of-video-interviews%2F
+File Name: E:\primepharmacyrec.com\wp-json\oembed\1.0\embed-6.json
+Content Type: application/json
+
+Uri: https://primepharmacyrec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fprimepharmacyrec.com%2Ffive-tips-to-get-the-most-out-of-video-interviews%2F&format=xml
+File Name: E:\primepharmacyrec.com\wp-json\oembed\1.0\embed-6.xml
+Content Type: text/xml
+
+Uri: https://zoom.us/
+File Name: E:\primepharmacyrec.com\index-2.htm
+Content Type: text/html
+
+Uri: https://www.skype.com/en/
+File Name: E:\primepharmacyrec.com\en\index.htm
+Content Type: text/html
+
+Uri: https://duo.google.com/about/
+File Name: E:\primepharmacyrec.com\about\index.htm
+Content Type: text/html
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2020/04/download.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2020\04\download.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2020/04/Quiet-place-from-home.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2020\04\Quiet-place-from-home.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2020/04/Clothing-Best.jpeg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2020\04\Clothing-Best.jpeg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2020/04/bodylanguage.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2020\04\bodylanguage.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2020/04/video-interview-just-right.png
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2020\04\video-interview-just-right.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-includes/js/comment-reply.min.js?ver=5.7.2
+File Name: E:\primepharmacyrec.com\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/js/third-party/select2.min.js?ver=3.5.2
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\js\third-party\select2.min.js
+Content Type: application/javascript
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/wp-job-manager-locations/assets/js/main.min.js?ver=20190128
+File Name: E:\primepharmacyrec.com\wp-content\plugins\wp-job-manager-locations\assets\js\main.min.js
+Content Type: application/javascript
+
+Uri: https://primepharmacyrec.com/wp-includes/js/wp-embed.min.js?ver=5.7.2
+File Name: E:\primepharmacyrec.com\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/akismet/_inc/form.js?ver=4.1.9
+File Name: E:\primepharmacyrec.com\wp-content\plugins\akismet\_inc\form.js
+Content Type: application/javascript
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2020/04/download-300x150.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2020\04\download-300x150.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2020/04/Quiet-place-from-home-300x169.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2020\04\Quiet-place-from-home-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2020/04/Quiet-place-from-home-1024x576.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2020\04\Quiet-place-from-home-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2020/04/Quiet-place-from-home-768x432.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2020\04\Quiet-place-from-home-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2020/04/Clothing-Best-300x153.jpeg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2020\04\Clothing-Best-300x153.jpeg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2020/04/Clothing-Best-1024x523.jpeg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2020\04\Clothing-Best-1024x523.jpeg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2020/04/Clothing-Best-768x393.jpeg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2020\04\Clothing-Best-768x393.jpeg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2020/04/bodylanguage-300x200.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2020\04\bodylanguage-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2020/04/video-interview-just-right-300x155.png
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2020\04\video-interview-just-right-300x155.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2020/04/video-interview-just-right-1024x530.png
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2020\04\video-interview-just-right-1024x530.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2020/04/video-interview-just-right-768x398.png
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2020\04\video-interview-just-right-768x398.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/css/A.header,,_header-secondary-nav.css,,qver==12.1.0+off-canvas,,_slide-out-right-hover.css,,qver==12.1.0+elements,,_element-image-with-hotspots.css,,qver==12.1.0+plugins,,_magnific.css,,qver==8.6.0,Mcc.Eoql77aN1w.css.pagespeed.cf.XLjdNs6UEU.css
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\css\A.header,,_header-secondary-nav.css,,qver==12.1.0 off-canvas,,_slide-out-right-hover.css,,qver==12.1.0 elements,,_element-image-with-hotspots.css,,qver==12.1.0 plugins,,_magnific.css,,qver==8.6.0,Mcc..css
+Content Type: text/css
+
+Uri: https://primepharmacyrec.com/wp-content/A.themes,,_salient,,_css,,_plugins,,_flickity.css,,qver==12.1.0+plugins,,_salient-portfolio,,_css,,_portfolio.css,,qver==1.3+themes,,_salient,,_css,,_responsive.css,,qver==12.1.0+themes,,_salient-child,,_style.css,,qver==12.1.0+themes,,_salient,,_css,,_ascend.css,,qver==12.1.0+themes,,_salient,,_css,,_plugins,,_select2.css,,qver==6.2+plugins,,_js_composer_salient,,_assets,,_css,,_js_composer.min.css,,qver==6.0.5+themes,,_salient,,_css,,_salient-dynamic-styles.css,,qver==87528,Mcc.jzfAa9LDug.css.pagespeed.cf.uuA3WFGPa5.css
+File Name: E:\primepharmacyrec.com\wp-content\A.themes,,_salient,,_css,,_plugins,,_flickity.css,,qver==12.1.0 plugins,,_salient-portfolio,,_css,,_portfolio.css,,qver==1.3 themes,,_salient,,_css,,_responsive.css,,qver==12.1.0 themes,,_salient-child,,_style.css,,qver.css
+Content Type: text/css
+
+Uri: https://primepharmacyrec.com/category/pharmacist-careers/feed/
+File Name: E:\primepharmacyrec.com\category\pharmacist-careers\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://primepharmacyrec.com/wp-json/wp/v2/categories/191
+File Name: E:\primepharmacyrec.com\wp-json\wp\v2\categories\191.json
+Content Type: application/json
+
+Uri: https://primepharmacyrec.com/wp-content,_plugins,_js_composer_salient,_assets,_lib,_bower,_flexslider,_jquery.flexslider-min.js,qver==6.0.5+wp-content,_plugins,_salient-portfolio,_js,_third-party,_isotope.min.js,qver==7.6+wp-content,_themes,_salient,_js,_third-party,_flickity.min.js,qver==2.2+wp-content,_themes,_salient,_js,_elements,_nectar-testimonial-slider.js,qver==12.1.0+wp-content,_plugins,_salient-core,_js,_third-party,_touchswipe.min.js,qver==1.0+wp-content,_themes,_salient,_js,_third-party,_select2.min.js,qver==3.5.2+wp-content,_plugins,_wp-job-manager-locations,_assets,_js,_main.min.js,qver==20190128+wp-includes,_js,_wp-embed.min.js,qver==5.7.2.pagespeed.jc.tEBeKldVl_.js
+File Name: E:\primepharmacyrec.com\wp-content,_plugins,_js_composer_salient,_assets,_lib,_bower,_flexslider,_jquery.flexslider-min.js,qver==6.0.5 wp-content,_plugins,_salient-portfolio,_js,_third-party,_isotope.min.js,qver==7.6 wp-content,_themes,_salient,_js,_third.js
+Content Type: application/javascript
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2020/03/xPersonal-Linkedin-Cover-Photo-Optical-Pharmacy-1-300x114.png.pagespeed.ic.x5V1sBQJhL.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2020\03\xPersonal-Linkedin-Cover-Photo-Optical-Pharmacy-1-300x114.png.pagespeed.ic.x5V1sBQJhL.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2020/03/xPersonal-Linkedin-Cover-Photo-Optical-Pharmacy-1-768x292.png.pagespeed.ic.zqjD3yC8wf.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2020\03\xPersonal-Linkedin-Cover-Photo-Optical-Pharmacy-1-768x292.png.pagespeed.ic.zqjD3yC8wf.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/category/pharmacy-careers/feed/
+File Name: E:\primepharmacyrec.com\category\pharmacy-careers\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://primepharmacyrec.com/wp-json/wp/v2/categories/190
+File Name: E:\primepharmacyrec.com\wp-json\wp\v2\categories\190.json
+Content Type: application/json
+
+Uri: https://primepharmacyrec.com/author/helen/feed/
+File Name: E:\primepharmacyrec.com\author\helen\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://primepharmacyrec.com/wp-json/wp/v2/users/2
+File Name: E:\primepharmacyrec.com\wp-json\wp\v2\users\2.json
+Content Type: application/json
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/css/A.header,,_header-secondary-nav.css,,qver==12.1.0+off-canvas,,_slide-out-right-hover.css,,qver==12.1.0+single.css,,qver==12.1.0+elements,,_element-image-with-hotspots.css,,qver==12.1.0+plugins,,_magnific.css,,qver==8.6.0,Mcc.Z5-1wS5Scd.css.pagespeed.cf.O9f1NcM4LQ.css
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\css\A.header,,_header-secondary-nav.css,,qver==12.1.0 off-canvas,,_slide-out-right-hover.css,,qver==12.1.0 single.css,,qver==12.1.0 elements,,_element-image-with-hotspots.css,,qver==12.1.0 plugins,,_magni.css
+Content Type: text/css
+
+Uri: https://primepharmacyrec.com/4-top-reasons-to-become-a-community-pharmacist/feed/
+File Name: E:\primepharmacyrec.com\4-top-reasons-to-become-a-community-pharmacist\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://primepharmacyrec.com/wp-json/wp/v2/posts/6957
+File Name: E:\primepharmacyrec.com\wp-json\wp\v2\posts\6957.json
+Content Type: application/json
+
+Uri: https://primepharmacyrec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fprimepharmacyrec.com%2F4-top-reasons-to-become-a-community-pharmacist%2F
+File Name: E:\primepharmacyrec.com\wp-json\oembed\1.0\embed-7.json
+Content Type: application/json
+
+Uri: https://primepharmacyrec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fprimepharmacyrec.com%2F4-top-reasons-to-become-a-community-pharmacist%2F&format=xml
+File Name: E:\primepharmacyrec.com\wp-json\oembed\1.0\embed-7.xml
+Content Type: text/xml
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2020/03/xopening-hours.jpg.pagespeed.ic.HhEpEfcxNR.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2020\03\xopening-hours.jpg.pagespeed.ic.HhEpEfcxNR.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2020/03/Pharmacists-Photo-1-scaled.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2020\03\Pharmacists-Photo-1-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content,_plugins,_salient-core,_js,_third-party,_touchswipe.min.js,qver==1.0+wp-includes,_js,_comment-reply.min.js,qver==5.7.2+wp-content,_themes,_salient,_js,_third-party,_select2.min.js,qver==3.5.2+wp-content,_plugins,_wp-job-manager-locations,_assets,_js,_main.min.js,qver==20190128+wp-includes,_js,_wp-embed.min.js,qver==5.7.2.pagespeed.jc.nQtnoKUEKc.js
+File Name: E:\primepharmacyrec.com\wp-content,_plugins,_salient-core,_js,_third-party,_touchswipe.min.js,qver==1.0 wp-includes,_js,_comment-reply.min.js,qver==5.7.2 wp-content,_themes,_salient,_js,_third-party,_select2.min.js,qver==3.5.2 wp-content,_plugins,_wp-job-.js
+Content Type: application/javascript
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2020/03/xopening-hours-150x150.jpg.pagespeed.ic.0XpcjAD5vn.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2020\03\xopening-hours-150x150.jpg.pagespeed.ic.0XpcjAD5vn.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2020/03/xopening-hours-100x100.jpg.pagespeed.ic.qG5cclvlkN.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2020\03\xopening-hours-100x100.jpg.pagespeed.ic.qG5cclvlkN.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2020/03/xopening-hours-140x140.jpg.pagespeed.ic._St_B4zGbo.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2020\03\xopening-hours-140x140.jpg.pagespeed.ic._St_B4zGbo.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2019/10/xpharmacy-candidate-process-300x261.jpg.pagespeed.ic.Bjmn0Y_Yxt.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2019\10\xpharmacy-candidate-process-300x261.jpg.pagespeed.ic.Bjmn0Y_Yxt.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2019/10/xpharmacy-candidate-process-768x669.jpg.pagespeed.ic.yj1vr2gBXr.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2019\10\xpharmacy-candidate-process-768x669.jpg.pagespeed.ic.yj1vr2gBXr.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2019/10/pharmacy-candidate-process-1024x892.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2019\10\pharmacy-candidate-process-1024x892.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2019/10/services-background2-300x169.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2019\10\services-background2-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2019/10/services-background2-768x432.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2019\10\services-background2-768x432.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2019/10/services-background2-1024x576.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2019\10\services-background2-1024x576.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2020/03/Pharmacists-Photo-1-300x187.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2020\03\Pharmacists-Photo-1-300x187.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2020/03/Pharmacists-Photo-1-1024x637.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2020\03\Pharmacists-Photo-1-1024x637.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2020/03/Pharmacists-Photo-1-768x478.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2020\03\Pharmacists-Photo-1-768x478.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2020/03/Pharmacists-Photo-1-1536x955.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2020\03\Pharmacists-Photo-1-1536x955.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/uploads/2020/03/Pharmacists-Photo-1-2048x1274.jpg
+File Name: E:\primepharmacyrec.com\wp-content\uploads\2020\03\Pharmacists-Photo-1-2048x1274.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/themes/A.salient,,_css,,_responsive.css,,qver==12.1.0+salient-child,,_style.css,,qver==12.1.0+salient,,_css,,_ascend.css,,qver==12.1.0+salient,,_css,,_plugins,,_select2.css,,qver==6.2+salient,,_css,,_salient-dynamic-styles.css,,qver==87528,Mcc.nkl8H3JG7W.css.pagespeed.cf.3RrB9ISQJG.css
+File Name: E:\primepharmacyrec.com\wp-content\themes\A.salient,,_css,,_responsive.css,,qver==12.1.0 salient-child,,_style.css,,qver==12.1.0 salient,,_css,,_ascend.css,,qver==12.1.0 salient,,_css,,_plugins,,_select2.css,,qver==6.2 salient,,_css,,_salient-dynamic-sty.css
+Content Type: text/css
+
+Uri: https://primepharmacyrec.com/wp-json/wp/v2/pages/5991
+File Name: E:\primepharmacyrec.com\wp-json\wp\v2\pages\5991.json
+Content Type: application/json
+
+Uri: https://primepharmacyrec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fprimepharmacyrec.com%2Fprivacy-policy%2F
+File Name: E:\primepharmacyrec.com\wp-json\oembed\1.0\embed-8.json
+Content Type: application/json
+
+Uri: https://primepharmacyrec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fprimepharmacyrec.com%2Fprivacy-policy%2F&format=xml
+File Name: E:\primepharmacyrec.com\wp-json\oembed\1.0\embed-8.xml
+Content Type: text/xml
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/css/A.js_composer.min.css,qver=6.0.5.pagespeed.cf.7x5oi6LA7C.css
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\css\A.js_composer.min.css,qver=6.0.5.pagespeed.cf.7x5oi6LA7C.css
+Content Type: text/css
+
+Uri: https://primepharmacyrec.com/wp-json/wp/v2/pages/5958
+File Name: E:\primepharmacyrec.com\wp-json\wp\v2\pages\5958.json
+Content Type: application/json
+
+Uri: https://primepharmacyrec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fprimepharmacyrec.com%2Fcookie-policy%2F
+File Name: E:\primepharmacyrec.com\wp-json\oembed\1.0\embed-9.json
+Content Type: application/json
+
+Uri: https://primepharmacyrec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fprimepharmacyrec.com%2Fcookie-policy%2F&format=xml
+File Name: E:\primepharmacyrec.com\wp-json\oembed\1.0\embed-9.xml
+Content Type: text/xml
+
+Uri: https://primepharmacyrec.com/wp-json/wp/v2/pages/6800
+File Name: E:\primepharmacyrec.com\wp-json\wp\v2\pages\6800.json
+Content Type: application/json
+
+Uri: https://primepharmacyrec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fprimepharmacyrec.com%2Fmodern-slavery-human-trafficking-statement%2F
+File Name: E:\primepharmacyrec.com\wp-json\oembed\1.0\embed-10.json
+Content Type: application/json
+
+Uri: https://primepharmacyrec.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fprimepharmacyrec.com%2Fmodern-slavery-human-trafficking-statement%2F&format=xml
+File Name: E:\primepharmacyrec.com\wp-json\oembed\1.0\embed-10.xml
+Content Type: text/xml
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/css/fonts/iconsmind.eot?qnd6ae
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\css\fonts\iconsmind.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/css/fonts/iconsmind.ttf?qnd6ae
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\css\fonts\iconsmind.ttf
+Content Type: font/ttf
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/css/fonts/iconsmind.woff?qnd6ae
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\css\fonts\iconsmind.woff
+Content Type: font/woff
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/wp-job-manager/assets/dist/font/job-manager-a2d17fff9efb870b3e027dc5516b3ecc.eot
+File Name: E:\primepharmacyrec.com\wp-content\plugins\wp-job-manager\assets\dist\font\job-manager-a2d17fff9efb870b3e027dc5516b3ecc.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/wp-job-manager/assets/dist/font/job-manager-434425afc81b621e0e02b871e4f5fca1.woff
+File Name: E:\primepharmacyrec.com\wp-content\plugins\wp-job-manager\assets\dist\font\job-manager-434425afc81b621e0e02b871e4f5fca1.woff
+Content Type: font/woff
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/wp-job-manager/assets/dist/font/job-manager-7799d387315fbcfa0060adf100cc549d.ttf
+File Name: E:\primepharmacyrec.com\wp-content\plugins\wp-job-manager\assets\dist\font\job-manager-7799d387315fbcfa0060adf100cc549d.ttf
+Content Type: font/ttf
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/wp-job-manager/assets/dist/font/job-manager-aa916d5b5333755f80564e47a7f7a89f.svg
+File Name: E:\primepharmacyrec.com\wp-content\plugins\wp-job-manager\assets\dist\font\job-manager-aa916d5b5333755f80564e47a7f7a89f.svg
+Content Type: image/svg+xml
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/wp-job-manager/assets/dist/font/jm-logo/jm-18758dfe508305ba1682fe8fb3be8c72.eot
+File Name: E:\primepharmacyrec.com\wp-content\plugins\wp-job-manager\assets\dist\font\jm-logo\jm-18758dfe508305ba1682fe8fb3be8c72.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/wp-job-manager/assets/dist/font/jm-logo/jm-18758dfe508305ba1682fe8fb3be8c72.eot?
+File Name: E:\primepharmacyrec.com\wp-content\plugins\wp-job-manager\assets\dist\font\jm-logo\jm-18758dfe508305ba1682fe8fb3be8c72-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/wp-job-manager/assets/dist/font/jm-logo/jm-67b7d10affac4ffd77eb7874ec25263b.woff
+File Name: E:\primepharmacyrec.com\wp-content\plugins\wp-job-manager\assets\dist\font\jm-logo\jm-67b7d10affac4ffd77eb7874ec25263b.woff
+Content Type: font/woff
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/wp-job-manager/assets/dist/font/jm-logo/jm-97b72719abd94986185dcfeef1203fb9.ttf
+File Name: E:\primepharmacyrec.com\wp-content\plugins\wp-job-manager\assets\dist\font\jm-logo\jm-97b72719abd94986185dcfeef1203fb9.ttf
+Content Type: font/ttf
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/wp-job-manager/assets/dist/font/jm-logo/jm-04f818ce1471720fb214394b96feb5de.svg
+File Name: E:\primepharmacyrec.com\wp-content\plugins\wp-job-manager\assets\dist\font\jm-logo\jm-04f818ce1471720fb214394b96feb5de.svg
+Content Type: image/svg+xml
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/img/icons/xquote.png.pagespeed.ic.ySA-3LeWJ5.png
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\img\icons\xquote.png.pagespeed.ic.ySA-3LeWJ5.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/img/icons/xlink.png.pagespeed.ic.eRp4_LmAdi.png
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\img\icons\xlink.png.pagespeed.ic.eRp4_LmAdi.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/img/icons/xstatus.png.pagespeed.ic.MGTHUoE8qp.png
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\img\icons\xstatus.png.pagespeed.ic.MGTHUoE8qp.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/img/icons/xquote-2x.png.pagespeed.ic.9XGj1I-vKh.png
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\img\icons\xquote-2x.png.pagespeed.ic.9XGj1I-vKh.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/img/icons/xlink-2x.png.pagespeed.ic.M60xdoNIxe.png
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\img\icons\xlink-2x.png.pagespeed.ic.M60xdoNIxe.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/img/icons/xportfolio-arrows.png.pagespeed.ic.F_GGxnSeMW.png
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\img\icons\xportfolio-arrows.png.pagespeed.ic.F_GGxnSeMW.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/img/icons/xportfolio-arrows-2x.png.pagespeed.ic.0R0EdHtFRX.png
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\img\icons\xportfolio-arrows-2x.png.pagespeed.ic.0R0EdHtFRX.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient/img/icons/xcomment-children-line.jpg.pagespeed.ic.-mDtdl8R4M.jpg
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient\img\icons\xcomment-children-line.jpg.pagespeed.ic.-mDtdl8R4M.jpg
+Content Type: image/jpeg
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/icons/xalarm-clock.png.pagespeed.ic.XveBkb930a.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\icons\xalarm-clock.png.pagespeed.ic.XveBkb930a.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/icons/xanchor.png.pagespeed.ic.WSqdoqWwUd.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\icons\xanchor.png.pagespeed.ic.WSqdoqWwUd.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/icons/xasterisk.png.pagespeed.ic.KRxQN1tcVw.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\icons\xasterisk.png.pagespeed.ic.KRxQN1tcVw.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/icons/xballoon-facebook.png.pagespeed.ic.60xlJ8qqZ4.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\icons\xballoon-facebook.png.pagespeed.ic.60xlJ8qqZ4.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/icons/xblue-document-excel.png.pagespeed.ic.4iAgk8mSIW.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\icons\xblue-document-excel.png.pagespeed.ic.4iAgk8mSIW.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/icons/xblue-document-music.png.pagespeed.ic.gg4IF1XPWx.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\icons\xblue-document-music.png.pagespeed.ic.gg4IF1XPWx.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/icons/xblue-document-powerpoint.png.pagespeed.ic.YlTqF3k-eT.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\icons\xblue-document-powerpoint.png.pagespeed.ic.YlTqF3k-eT.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/icons/xchart-pie.png.pagespeed.ic.nPPGz8aVPm.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\icons\xchart-pie.png.pagespeed.ic.nPPGz8aVPm.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/icons/xclock.png.pagespeed.ic.T6_TsCkZlo.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\icons\xclock.png.pagespeed.ic.T6_TsCkZlo.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/icons/xmail.png.pagespeed.ic.A675MUB7BQ.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\icons\xmail.png.pagespeed.ic.A675MUB7BQ.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/xtoggle_open.png.pagespeed.ic.G4f7YVdUkJ.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\xtoggle_open.png.pagespeed.ic.G4f7YVdUkJ.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/xtoggle_close.png.pagespeed.ic.I5pdFld7VE.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\xtoggle_close.png.pagespeed.ic.I5pdFld7VE.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/images/xflickr.png.pagespeed.ic.T1qkLFCXmI.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\images\xflickr.png.pagespeed.ic.T1qkLFCXmI.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/js_composer_salient/assets/vc/xremove.png.pagespeed.ic.aZoRFE-ryc.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\js_composer_salient\assets\vc\xremove.png.pagespeed.ic.aZoRFE-ryc.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/gravityforms/images/xgf-creditcard-icons.png.pagespeed.ic.lxcK6cQkdl.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\gravityforms\images\xgf-creditcard-icons.png.pagespeed.ic.lxcK6cQkdl.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/themes,_salient,_css,_responsive.css,qver==12.1.0+themes,_salient-child,_style.css,qver==12.1.0+themes,_salient,_css,_ascend.css,qver==12.1.0+plugins,_js_composer_salient,_assets,_css,_js_composer.min.css,qver==6.0.5+plugins,_gravityforms,_css,_formreset.min.css,qver==2.4.9+plugins,_gravityforms,_css,_formsmain.min.css,qver==2.4.9+plugins,_gravityforms,_css,_readyclass.min.css,qver==2.4.9+plugins,_gravityforms,_css,_browsers.min.css,qver==2.4.9+themes,_salient,_css,_salient-dynamic-styles.css,qver==87528.pagespeed.cc.oIgmeEfKtV.css
+File Name: E:\primepharmacyrec.com\wp-content\themes,_salient,_css,_responsive.css,qver==12.1.0 themes,_salient-child,_style.css,qver==12.1.0 themes,_salient,_css,_ascend.css,qver==12.1.0 plugins,_js_composer_salient,_assets,_css,_js_composer.min.css,qver==6.0.5 pl.css
+Content Type: text/css
+
+Uri: https://primepharmacyrec.com/wp-content/themes,_salient,_css,_responsive.css,qver==12.1.0+themes,_salient-child,_style.css,qver==12.1.0+themes,_salient,_css,_ascend.css,qver==12.1.0+themes,_salient,_css,_plugins,_select2.css,qver==6.2+plugins,_js_composer_salient,_assets,_css,_js_composer.min.css,qver==6.0.5+themes,_salient,_css,_salient-dynamic-styles.css,qver==87528.pagespeed.cc.r1dDR5rk9p.css
+File Name: E:\primepharmacyrec.com\wp-content\themes,_salient,_css,_responsive.css,qver==12.1.0 themes,_salient-child,_style.css,qver==12.1.0 themes,_salient,_css,_ascend.css,qver==12.1.0 themes,_salient,_css,_plugins,_select2.css,qver==6.2 plugins,_js_composer_sal.css
+Content Type: text/css
+
+Uri: https://primepharmacyrec.com/wp-content/themes,_salient,_css,_responsive.css,qver==12.1.0+themes,_salient-child,_style.css,qver==12.1.0+themes,_salient,_css,_ascend.css,qver==12.1.0+themes,_salient,_css,_plugins,_select2.css,qver==6.2+plugins,_js_composer_salient,_assets,_css,_js_composer.min.css,qver==6.0.5+plugins,_gravityforms,_css,_formreset.min.css,qver==2.4.9+plugins,_gravityforms,_css,_formsmain.min.css,qver==2.4.9+plugins,_gravityforms,_css,_readyclass.min.css,qver==2.4.9+plugins,_gravityforms,_css,_browsers.min.css,qver==2.4.9+themes,_salient,_css,_salient-dynamic-styles.css,qver==87528.pagespeed.cc.Isca4nwfbE.css
+File Name: E:\primepharmacyrec.com\wp-content\themes,_salient,_css,_responsive.css,qver==12.1.0 themes,_salient-child,_style.css,qver==12.1.0 themes,_salient,_css,_ascend.css,qver==12.1.0 themes,_salient,_css,_plugins,_select2.css,qver==6.2 plugins,_js_composer_s-1.css
+Content Type: text/css
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/gravityforms/images/datepicker/xarrow.png.pagespeed.ic.LQUOynSjLI.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\gravityforms\images\datepicker\xarrow.png.pagespeed.ic.LQUOynSjLI.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/themes,_salient,_css,_responsive.css,qver==12.1.0+themes,_salient-child,_style.css,qver==12.1.0+themes,_salient,_css,_ascend.css,qver==12.1.0+themes,_salient,_css,_plugins,_select2.css,qver==6.2+plugins,_js_composer_salient,_assets,_css,_js_composer.min.css,qver==6.0.5+plugins,_gravityforms,_css,_formreset.min.css,qver==2.4.9+plugins,_gravityforms,_css,_datepicker.min.css,qver==2.4.9+plugins,_gravityforms,_css,_formsmain.min.css,qver==2.4.9+plugins,_gravityforms,_css,_readyclass.min.css,qver==2.4.9+plugins,_gravityforms,_css,_browsers.min.css,qver==2.4.9+themes,_salient,_css,_salient-dynamic-styles.css,qver==87528.pagespeed.cc.55PHmbYUhb.css
+File Name: E:\primepharmacyrec.com\wp-content\themes,_salient,_css,_responsive.css,qver==12.1.0 themes,_salient-child,_style.css,qver==12.1.0 themes,_salient,_css,_ascend.css,qver==12.1.0 themes,_salient,_css,_plugins,_select2.css,qver==6.2 plugins,_js_composer_s-2.css
+Content Type: text/css
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/salient-portfolio/img/xtransparent.png.pagespeed.ic.8ugCeUr1Ya.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\salient-portfolio\img\xtransparent.png.pagespeed.ic.8ugCeUr1Ya.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/salient-portfolio/img/icons/loading-white-bg.gif
+File Name: E:\primepharmacyrec.com\wp-content\plugins\salient-portfolio\img\icons\loading-white-bg.gif
+Content Type: image/gif
+
+Uri: https://primepharmacyrec.com/wp-content/themes,_salient,_css,_plugins,_flickity.css,qver==12.1.0+plugins,_salient-portfolio,_css,_portfolio.css,qver==1.3+themes,_salient,_css,_responsive.css,qver==12.1.0+themes,_salient-child,_style.css,qver==12.1.0+themes,_salient,_css,_ascend.css,qver==12.1.0+themes,_salient,_css,_plugins,_select2.css,qver==6.2+plugins,_js_composer_salient,_assets,_css,_js_composer.min.css,qver==6.0.5+themes,_salient,_css,_salient-dynamic-styles.css,qver==87528.pagespeed.cc.jzfAa9LDug.css
+File Name: E:\primepharmacyrec.com\wp-content\themes,_salient,_css,_plugins,_flickity.css,qver==12.1.0 plugins,_salient-portfolio,_css,_portfolio.css,qver==1.3 themes,_salient,_css,_responsive.css,qver==12.1.0 themes,_salient-child,_style.css,qver==12.1.0 themes,_s.css
+Content Type: text/css
+
+Uri: https://primepharmacyrec.com/wp-content/themes/salient,_css,_responsive.css,qver==12.1.0+salient-child,_style.css,qver==12.1.0+salient,_css,_ascend.css,qver==12.1.0+salient,_css,_plugins,_select2.css,qver==6.2+salient,_css,_salient-dynamic-styles.css,qver==87528.pagespeed.cc.nkl8H3JG7W.css
+File Name: E:\primepharmacyrec.com\wp-content\themes\salient,_css,_responsive.css,qver==12.1.0 salient-child,_style.css,qver==12.1.0 salient,_css,_ascend.css,qver==12.1.0 salient,_css,_plugins,_select2.css,qver==6.2 salient,_css,_salient-dynamic-styles.css,qver==87.css
+Content Type: text/css
+
+Uri: https://www.aboutcookies.org/
+File Name: E:\primepharmacyrec.com\index-3.htm
+Content Type: text/html
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/gravityforms/images/datepicker/arrow.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\gravityforms\images\datepicker\arrow.png
+Content Type: image/png
+
+Uri: https://primepharmacyrec.com/wp-content/plugins/salient-portfolio/img/transparent.png
+File Name: E:\primepharmacyrec.com\wp-content\plugins\salient-portfolio\img\transparent.png
+Content Type: image/png
+
